@@ -142,3 +142,39 @@ text-align: left;
 
 }
  
+.row-last{
+width: Fill (1,296px)px;
+height: Hug (130px)px;
+padding: 0px 32px 0px 32px;
+gap: 16px;
+opacity: 0px;
+
+}
+.usage{
+width: Fill (1,232px)px;
+height: Hug (44px)px;
+gap: 0px;
+justify-content: space-between;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 500;
+line-height: 24.38px;
+text-align: left;
+
+}
+.bar{
+width: Fill (1,232px)px;
+height: Hug (54px)px;
+gap: 14px;
+opacity: 0px;
+
+}
+p{
+width: Fill (1,232px)px;
+height: Hug (20px)px;
+gap: 0px;
+justify-content: space-between;
+opacity: 0px;
+
+}

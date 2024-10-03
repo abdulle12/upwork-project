@@ -1,0 +1,144 @@
+header{
+  
+    width: Fixed 1,440pxpx;
+    height: Fixed 80pxpx;
+    padding: 34px 108px 34px 108px;
+    gap: 10px;
+    border-bottom: 0.2px solid #000000;
+    display: flex;
+    justify-content: space-between;
+}
+.frame{
+    width: Fixed (1,296px)px;
+    height: Hug (454px)px;
+    top: 130px;
+    left: 72px;
+    padding: 24px 0px 40px 0px;
+    padding-bottom:40px ;
+    padding-top: 24px;
+
+    gap: 16px;
+    border-radius: 8px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #0000004D;
+    margin-top: 10px;
+    
+
+}
+
+.Subscribtion{
+width: 245px;
+height: 29px;
+gap: 0px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 500;
+line-height: 29.26px;
+text-align: left;
+
+
+
+}
+.button-1{
+width: Hug 199px;
+height: Fixed 48px;
+padding: 12px 20px 12px 20px;
+gap: 10px;
+border-radius: 66px;
+border: 1px 0px 0px 0px;
+border: 1px solid #00000080;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.5px;
+text-align: left;
+border: 1px solid #0000004D;
+
+
+
+
+}
+.active{
+
+width: 81px;
+height: 38px;
+padding: 8px 12px 8px 12px;
+gap: 10px;
+border-radius: 25px;
+opacity: 0px;
+    
+    background: #41FF714D;
+    font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.94px;
+text-align: left;
+text-align: center;
+align-items: center;
+
+    
+
+
+    
+    
+    
+    }
+.row-1{
+    display: flex;
+    width: Fill (1,296px)px;
+    height: Hug (48px)px;
+    padding: 0px 24px 0px 24px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    
+    
+bottom: 1px solid #0000004D
+
+
+
+}
+.line-1{
+    
+    width: 1296px;
+    height: 0px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #0000004D;
+    
+}
+
+.row-2{
+
+width: Fill (1,296px)px;
+height: Hug (74px)px;
+padding: 0px 32px 0px 32px;
+gap: 16px;
+opacity: 0px;
+
+}
+
+.content{
+width: Hug (304px)px;
+height: Hug (58px)px;
+padding: 10px 0px 10px 0px;
+gap: 24px;
+opacity: 0px;
+display: flex;
+
+}
+.sub{
+width: 199px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 500;
+line-height: 24.38px;
+text-align: left;
+
+
+}
+ 
